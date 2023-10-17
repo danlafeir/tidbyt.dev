@@ -5,7 +5,8 @@ To use Pixlet, one first has to install the CLI tool.
 First, install [Homebrew](https://brew.sh/) on your computer. Then, in your terminal, run the following:
 
 ```
-brew install tidbyt/tidbyt/pixlet
+brew tap tidbyt/tidbyt
+brew install pixlet
 ```
 
 ## Install on Linux
